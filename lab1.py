@@ -209,8 +209,8 @@ def main_loop():
     ops = {
         '1': op_add,
         '2': op_mul,
-        '3': op_square,   # оновлено
-        '4': op_mod,      # оновлено
+        '3': op_square,
+        '4': op_mod,
         '0': None
     }
     while True:
